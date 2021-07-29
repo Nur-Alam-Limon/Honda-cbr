@@ -9,3 +9,11 @@
 .text-orange {
   color: #e76f51;
 }
+
+.text-blue {
+  color: #23a6f0;
+}
+
+.gray {
+  filter: grayscale(100%);
+}
